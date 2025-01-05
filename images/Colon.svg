@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!-- Titled at 2025-01-05T23:38:50.065282+00:00 by /Users/dbro078/Flatmaps/mapmaker-main/tools/id_to_title.py version 1.1.0 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_2" viewBox="0 0 331.32 456.04">
   <defs>
     <style>.cls-1{fill:url(#linear-gradient-2);}.cls-2{clip-path:url(#clippath-11);}.cls-3{fill:url(#linear-gradient);stroke:#d7998d;}.cls-3,.cls-4,.cls-5{stroke-linecap:round;stroke-linejoin:round;}.cls-3,.cls-5{stroke-width:.5px;}.cls-6{clip-path:url(#clippath-2);}.cls-7{clip-path:url(#clippath-13);}.cls-8{clip-path:url(#clippath-6);}.cls-9{clip-path:url(#clippath-7);}.cls-10{clip-path:url(#clippath-1);}.cls-11{clip-path:url(#clippath-4);}.cls-12{clip-path:url(#clippath-12);}.cls-13{clip-path:url(#clippath-9);}.cls-14{clip-path:url(#clippath);}.cls-15,.cls-4,.cls-5{fill:none;}.cls-16{clip-path:url(#clippath-3);}.cls-17{clip-path:url(#clippath-8);}.cls-18{clip-path:url(#clippath-14);}.cls-19{fill:url(#linear-gradient-3);}.cls-20{clip-path:url(#clippath-5);}.cls-21{clip-path:url(#clippath-10);}.cls-4{stroke-width:.25px;}.cls-4,.cls-5{stroke:#c87e74;}</style>
@@ -64,8 +65,8 @@
       <stop offset="1" stop-color="#d7998d"/>
     </linearGradient>
   </defs>
-  <g id="_id_digestive_17-1_">
-    <g>
+  <g>
+    <title>.id(digestive_17-1)</title><g>
       <g>
         <g class="cls-14">
           <g class="cls-10">
@@ -80,8 +81,8 @@
       <path class="cls-4" d="M120.8,315.88c3.26,3.12,9.86,6.76,17.25,9.52"/>
     </g>
   </g>
-  <g id="_id_digestive_32-1_">
-    <g>
+  <g>
+    <title>.id(digestive_32-1)</title><g>
       <g>
         <g class="cls-16">
           <g class="cls-11">
@@ -95,8 +96,8 @@
       <path class="cls-4" d="M162.83,268.56c5,4.41,10.87,5.88,10.87,5.88,0,0,9.11,2.94,17.34,2.35-6.47,2.06-23.51,2.65-25.28,5.58"/>
     </g>
   </g>
-  <g id="_id_digestive_14-1_">
-    <g>
+  <g>
+    <title>.id(digestive_14-1)</title><g>
       <g>
         <g class="cls-8">
           <g class="cls-9">
@@ -144,8 +145,8 @@
       <path class="cls-4" d="M66.85,69.64c-1.05,.83-2.82,1.61-7.12,2.15"/>
     </g>
   </g>
-  <g id="_id_digestive_16-1_">
-    <g>
+  <g>
+    <title>.id(digestive_16-1)</title><g>
       <g>
         <g class="cls-13">
           <g class="cls-21">
@@ -172,8 +173,8 @@
       <path class="cls-4" d="M258.15,246.71c2.45-.1,8.33,3.92,8.82,5.19"/>
     </g>
   </g>
-  <g id="_id_digestive_15-1_">
-    <g>
+  <g>
+    <title>.id(digestive_15-1)</title><g>
       <g>
         <g class="cls-12">
           <g class="cls-7">
