@@ -1,0 +1,13 @@
+{
+    "id": "WholeBodyCVS",
+    "models": "BG:CardioVascular",
+    "properties": "properties.json",
+    "kind": "functional",
+    "sources": [
+        {
+            "id": "wholebody-cvs-model",
+            "href": "Whole-body_circulation.svg",
+            "kind": "base"
+        }
+    ]
+}
