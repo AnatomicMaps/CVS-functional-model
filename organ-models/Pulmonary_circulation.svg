@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden" viewBox="0 0 2382.0 1761.0">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden" viewBox="0 0 2382.0 1772.0">
   <defs>
     <linearGradient x1="5322.5" y1="6202.5" x2="5491.5" y2="6202.5" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill0">
       <stop offset="0" stop-color="#83CBEB"/>
@@ -4480,7 +4480,6 @@
     </linearGradient>
   </defs>
   <g transform="translate(-4679 -5629)">
-    <path d="M22.9167-3.4375 61.1651-3.4375 61.1651 0.729724 57.7276-2.70778 115.455-2.70778 115.455 4.16722 54.2901 4.16722 54.2901 0 57.7276 3.4375 22.9167 3.4375ZM27.5 9.16667 0 0 27.5-9.16667Z" fill="#0070C0" transform="matrix(1.83697e-16 1 1 -1.83697e-16 5406.5 6048.5)"/>
     <path d="M5322.5 6193.16C5322.5 6176.78 5335.78 6163.5 5352.16 6163.5L5461.84 6163.5C5478.22 6163.5 5491.5 6176.78 5491.5 6193.16L5491.5 6211.84C5491.5 6228.22 5478.22 6241.5 5461.84 6241.5L5352.16 6241.5C5335.78 6241.5 5322.5 6228.22 5322.5 6211.84Z" stroke="#FF0000" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill0)" fill-rule="evenodd"/>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 5336.76 6219)">𝑢</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5360.25 6229)">𝑟</text>
@@ -4563,7 +4562,6 @@
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 4961.85 7283)">𝑟</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 4977.89 7283)">𝐿𝐿𝑜𝑏𝑒𝑉</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 4964.69 7257)">𝑏</text>
-    <path d="M5010.06 6935.8 5010.06 6787.67 5014 6787.67 5010.56 6791.11 5010.56 6623.5 5017.43 6623.5 5017.43 6794.55 5013.5 6794.55 5016.94 6791.11 5016.94 6935.8ZM5022.67 6931.22 5013.5 6958.72 5004.33 6931.22Z" fill="#0070C0"/>
     <path d="M5010.06 6394.15 5010.06 6199.06 5322.53 6199.06 5322.53 6205.94 5013.5 6205.94 5016.94 6202.5 5016.94 6394.15ZM5022.67 6389.57 5013.5 6417.07 5004.33 6389.57Z" fill="#0070C0"/>
     <path d="M4890.5 6575.16C4890.5 6558.78 4903.78 6545.5 4920.16 6545.5L5107.84 6545.5C5124.22 6545.5 5137.5 6558.78 5137.5 6575.16L5137.5 6593.84C5137.5 6610.22 5124.22 6623.5 5107.84 6623.5L4920.16 6623.5C4903.78 6623.5 4890.5 6610.22 4890.5 6593.84Z" stroke="#FF0000" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill13)" fill-rule="evenodd"/>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 4902.87 6600)">𝑢</text>
@@ -4588,9 +4586,8 @@
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5965.4 6348)">𝑃</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5984.88 6348)">𝑢𝑙𝑚𝑉</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5966.45 6322)">𝑏</text>
-    <path d="M5229.5 6623.69 5229.5 5633 5406.48 5633 5406.48 5715.5" stroke="#FF0000" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
-    <path d="M5224.02 7381.05 5013.5 7381.05 5013.5 7296.5" stroke="#FF0000" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
-    <path d="M5223.95 7381.56 4772.5 7381.56 4772.5 6997.5" stroke="#FF0000" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd"/>
+    <path d="M5903.61 6325.58 5246.54 6325.58 5246.54 5629.56 5409.94 5629.56 5409.94 5715.5 5403.06 5715.5 5403.06 5633 5406.5 5636.44 5249.98 5636.44 5253.42 5633 5253.42 6322.14 5249.98 6318.7 5903.61 6318.7ZM5899.03 6312.97 5926.53 6322.14 5899.03 6331.31Z" fill="#FF0000"/>
+    <path d="M22.9168-3.4375 679.97-3.4375 679.97 1074.92 676.532 1071.48 913.27 1071.48 909.833 1074.92 909.833 974.547 916.708 974.547 916.708 1078.35 673.095 1078.35 673.095 0 676.532 3.4375 22.9168 3.4375ZM27.5 9.16667 0 0 27.5-9.16667Z" fill="#FF0000" transform="matrix(-1 1.22465e-16 1.22465e-16 1 5926.77 6322.5)"/>
     <path d="M6446.5 6000.16C6446.5 5983.78 6459.78 5970.5 6476.16 5970.5L6598.84 5970.5C6615.22 5970.5 6628.5 5983.78 6628.5 6000.16L6628.5 6018.84C6628.5 6035.22 6615.22 6048.5 6598.84 6048.5L6476.16 6048.5C6459.78 6048.5 6446.5 6035.22 6446.5 6018.84Z" stroke="#00B050" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill17)" fill-rule="evenodd"/>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 6464.47 6025)">𝑣</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 6486.4 6035)">𝑙𝑈𝐿𝑜𝑏𝑒𝐴</text>
@@ -4607,8 +4604,7 @@
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 6486.38 5780)">𝑙𝑈𝐿𝑜𝑏𝑒𝑉</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 6489.22 5754)">𝑏</text>
     <path d="M3.4375-2.49441e-05 3.43769 26.8172-3.43731 26.8172-3.4375 2.49441e-05ZM9.16683 22.2338 0.000360892 49.7339-9.1665 22.2339Z" fill="#FF0000" transform="matrix(1 0 0 -1 6537.5 5844.23)"/>
-    <path d="M6541.12 6071.42 6541.12 6109.39 6537.5 6109.39 6540.94 6105.95 6540.94 6163.41 6534.06 6163.41 6534.06 6102.52 6537.68 6102.52 6534.24 6105.95 6534.24 6071.42ZM6528.51 6076 6537.68 6048.5 6546.84 6076Z" fill="#0070C0"/>
-    <path d="M0 0 990.123 0 990.123 195.54 907.621 195.54" stroke="#FF0000" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(-1.83697e-16 -1 -1 1.83697e-16 6733.04 6624.12)"/>
+    <path d="M22.9168-3.4375 624.092-3.4375 624.092 692.214 451.915 692.214 451.915 606.274 458.79 606.274 458.79 688.776 455.353 685.339 620.655 685.339 617.217 688.776 617.217 0 620.655 3.4375 22.9168 3.4375ZM27.5 9.16667 0 0 27.5-9.16667Z" fill="#FF0000" transform="matrix(1 0 0 -1 6082.5 6322.77)"/>
     <path d="M6811.5 6567.16C6811.5 6550.78 6824.78 6537.5 6841.16 6537.5L7028.84 6537.5C7045.22 6537.5 7058.5 6550.78 7058.5 6567.16L7058.5 6585.84C7058.5 6602.22 7045.22 6615.5 7028.84 6615.5L6841.16 6615.5C6824.78 6615.5 6811.5 6602.22 6811.5 6585.84Z" stroke="#FF0000" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill20)" fill-rule="evenodd"/>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 6826.92 6592)">𝑢</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 6850.41 6602)">𝑙𝐼𝑛𝑡𝑒𝑟𝑙𝑜𝑏𝑎𝑟𝐴</text>
@@ -4637,13 +4633,11 @@
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 6864.34 7273)">𝑣</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 6886.27 7283)">𝑙𝐿𝐿𝑜𝑏𝑒𝑉</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 6889.11 7257)">𝑏</text>
-    <path d="M6932.06 6935.88 6932.06 6783.71 6935.61 6783.71 6932.17 6787.15 6932.17 6615.5 6939.04 6615.5 6939.04 6790.59 6935.5 6790.59 6938.94 6787.15 6938.94 6935.88ZM6944.67 6931.3 6935.5 6958.8 6926.33 6931.3Z" fill="#0070C0"/>
-    <path d="M0 0 197.665 0 197.665 85.2969" stroke="#FF0000" stroke-width="6.875" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 6737.5 7381.8)"/>
-    <path d="M5236 7373 5227.5 7389 5219 7373Z" fill="#FF0000" fill-rule="evenodd"/>
-    <path d="M22.9168-3.4375 702.065-3.4375 702.065 1050.84 695.19 1050.84 695.19 0 698.627 3.4375 22.9168 3.4375ZM27.5 9.16667 0 0 27.5-9.16667Z" fill="#FF0000" transform="matrix(-1 1.22465e-16 1.22465e-16 1 5926.13 6322.5)"/>
-    <path d="M6741 7374 6733 7390 6725 7374Z" fill="#FF0000" fill-rule="evenodd"/>
-    <path d="M6105.42 6319.06 6736.83 6319.06 6736.83 7374.09 6729.96 7374.09 6729.96 6322.5 6733.39 6325.94 6105.42 6325.94ZM6110 6331.67 6082.5 6322.5 6110 6313.33Z" fill="#FF0000"/>
-    <path d="M6741 6623 6733 6640 6725 6623Z" fill="#FF0000" fill-rule="evenodd"/>
-    <path d="M5237 6623 5229 6640 5221 6623Z" fill="#FF0000" fill-rule="evenodd"/>
+    <path d="M22.9168-3.4375 679.445-3.4375 679.445 1073.78 676.007 1070.35 1154.21 1070.35 1150.77 1073.78 1150.77 675.03 1157.64 675.03 1157.64 1077.22 672.57 1077.22 672.57 0 676.007 3.4375 22.9168 3.4375ZM27.5 9.16667 0 0 27.5-9.16667Z" fill="#FF0000" transform="matrix(-1 1.22465e-16 1.22465e-16 1 5926.71 6322.5)"/>
+    <path d="M6105.42 6319.06 6706.95 6319.06 6706.95 7379.54 6703.51 7376.1 6935.18 7376.1 6931.74 7379.54 6931.74 7297.05 6938.62 7297.05 6938.62 7382.98 6700.07 7382.98 6700.07 6322.5 6703.51 6325.94 6105.42 6325.94ZM6110 6331.67 6082.5 6322.5 6110 6313.33Z" fill="#FF0000"/>
+    <path d="M3.4375-0.0053225 3.57993 91.9862-3.29506 91.9968-3.4375 0.0053225ZM9.302 87.394 0.17792 114.908-9.03132 87.4224Z" fill="#0070C0" transform="matrix(1 0 0 -1 6537.5 6163.41)"/>
+    <path d="M5403.79 6163.98 5403.21 6071.44 5410.08 6071.4 5410.67 6163.93ZM5397.51 6076.06 5406.5 6048.5 5415.84 6075.94Z" fill="#0070C0"/>
+    <path d="M3.4375-0.00509226 3.90014 312.297-2.97486 312.307-3.4375 0.00509226ZM9.62251 307.705 0.496588 335.219-8.71081 307.732Z" fill="#0070C0" transform="matrix(-1 0 0 1 5014 6623.5)"/>
+    <path d="M3.4375-0.00106604 3.53686 320.378-3.33814 320.38-3.4375 0.00106604ZM9.2646 315.793 0.106463 343.296-9.06873 315.799Z" fill="#0070C0" transform="matrix(-1 0 0 1 6935.61 6615.5)"/>
   </g>
 </svg>
