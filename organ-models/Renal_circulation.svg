@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden" viewBox="0 0 2881.0 3342.0">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden" viewBox="0 0 2828.0 1170.0">
   <defs>
     <linearGradient x1="7842" y1="7266" x2="8011" y2="7266" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill0">
       <stop offset="0" stop-color="#FFAFB1"/>
@@ -3494,35 +3494,7 @@
       <stop offset="1" stop-color="#83CBEB"/>
     </linearGradient>
   </defs>
-  <g transform="translate(-5188 -5840)">
-    <path d="M6471.2 5842.5C5811 6544.19 5521.04 8195.84 7064.5 9178.5" stroke="#7030A0" stroke-width="6.875" stroke-miterlimit="8" stroke-dasharray="27.5 20.625" fill="none" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 6717.66 7545)">pyramid</text>
-    <path d="M6784.2 5871.5C6124 6549.42 5834.04 8145.12 7377.5 9094.5" stroke="#7030A0" stroke-width="6.875" stroke-miterlimit="8" stroke-dasharray="27.5 20.625" fill="none" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 7072.03 8610)">minor calyx</text>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 7042.6 8245)">major calyx</text>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 7308.38 7865)">pelvis</text>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 7790.59 7701)">ureter</text>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 5837.57 8436)">cortex</text>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 6284.56 8217)">outer medulla</text>
-    <path d="M22.1138 6.92149 656.479 315.104 653.475 321.288 19.1096 13.1054ZM18.7271 24.3846 0 0 30.7439-0.350921ZM656.863 303.826 675.591 328.211 644.847 328.562Z" fill="#7030A0" transform="matrix(1 0 0 -1 5483.5 8554.71)"/>
-    <path d="M22.1151 6.92223 249.823 117.547 246.819 123.731 19.1108 13.1061ZM18.727 24.3847 0 0 30.7439-0.350776ZM250.207 106.268 268.934 130.653 238.19 131.004Z" fill="#7030A0" transform="matrix(1 0 0 -1 6166.5 8222.15)"/>
-    <path d="M6029.03 7545.91C5872.88 7471.61 5892.04 7028.89 6052.54 6959.3 6213.04 6889.71 6835.87 7054.06 6992.03 7128.36 7148.19 7202.67 7149.98 7335.53 6989.48 7405.12 6828.98 7474.71 6185.19 7620.22 6029.03 7545.91Z" stroke="#B11811" stroke-width="6.875" stroke-miterlimit="8" fill="#850F0A" fill-rule="evenodd"/>
-    <path d="M7060 7303 6123 7288.5 7060 7274Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M7032.77 7371.38 5959.26 7432.44 7030.74 7342.54Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M6998.52 7378.01 6067.09 7479.94 6994.93 7349.33Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M7047 7380 6110 7365.5 7047 7351Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M7060 7328 6123 7313.5 7060 7299Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M7047 7354 6047 7339.5 7047 7325Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M7001.58 7392.32 6111.47 7512.58 6997.16 7363.2Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M7011.93 7400.07 6437.86 7511.28 7007.42 7378.9Z" fill="#B11811" fill-rule="evenodd"/>
-    <path d="M0 936.878 14.4532 0 28.9064 936.878Z" fill="#B11811" fill-rule="evenodd" transform="matrix(-0.0702057 0.997533 0.997533 0.0702057 6104.07 7110.99)"/>
-    <path d="M0 936.878 14.4532 0 28.9064 936.878Z" fill="#B11811" fill-rule="evenodd" transform="matrix(-0.124102 0.992269 0.992269 0.124102 6089.2 7057.17)"/>
-    <path d="M0 1075 14.4999 0 28.9999 1075Z" fill="#B11811" fill-rule="evenodd" transform="matrix(1.83697e-16 1 1 -1.83697e-16 5989 7172)"/>
-    <path d="M0 936 14.5001 0 29.0002 936Z" fill="#B11811" fill-rule="evenodd" transform="matrix(1.83697e-16 1 1 -1.83697e-16 6144 7223)"/>
-    <path d="M0 937 14.4999 0 28.9999 937Z" fill="#B11811" fill-rule="evenodd" transform="matrix(1.83697e-16 1 1 -1.83697e-16 6130 7197)"/>
-    <path d="M0 936.878 14.4532 0 28.9064 936.878Z" fill="#B11811" fill-rule="evenodd" transform="matrix(-0.180422 0.983589 0.983589 0.180422 6057.68 7000.84)"/>
-    <path d="M0 667.236 10.8196 0 21.6391 667.236Z" fill="#B11811" fill-rule="evenodd" transform="matrix(-0.238724 0.971088 0.971088 0.238724 6290.56 7007.55)"/>
-    <path d="M7079 7277 6027 7262.5 7079 7248Z" fill="#B11811" fill-rule="evenodd"/>
+  <g transform="translate(-5188 -6673)">
     <path d="M7842 7256.66C7842 7240.28 7855.28 7227 7871.66 7227L7981.34 7227C7997.72 7227 8011 7240.28 8011 7256.66L8011 7275.34C8011 7291.72 7997.72 7305 7981.34 7305L7871.66 7305C7855.28 7305 7842 7291.72 7842 7275.34Z" stroke="#FF0000" stroke-width="10.3125" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill0)" fill-rule="evenodd"/>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 7860.94 7283)">𝑢</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 7884.43 7293)">𝑅𝑒𝑛𝑎𝑙𝐴</text>
@@ -3594,38 +3566,6 @@
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5717.81 7188)">𝐴𝑟𝑐𝑢𝑎𝑡𝑒𝑉</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5720.93 7163)">𝑏</text>
     <path d="M5775.06 7124.31 5775.06 6831.06 5992.37 6831.06 5992.37 6837.94 5778.5 6837.94 5781.94 6834.5 5781.94 7124.31ZM5987.78 6825.33 6015.28 6834.5 5987.78 6843.67Z" fill="#0070C0"/>
-    <path d="M5931.15 7040.07C5879.16 7033.08 5809.19 7021.65 5764.2 7015.38 5641.5 6997.7 5641.58 7048.29 5761.66 7064.84 5787.76 7068.21 5786.45 7068.73 5803.04 7070.51" stroke="#FFFF66" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
-    <path d="M3.68975 0.92031 13.0766 0C15.8106 115.252 12.9647 228.36 11.6547 342.909 1.14473 346.546 10.5101 353.475 0 348.625 2.64071 235.153 3.68975 116.173 3.68975 0.92031Z" fill="#FFFF66" fill-rule="evenodd" transform="matrix(-0.140955 0.990016 0.990016 0.140955 5796.34 7059.75)"/>
-    <path d="M6.50786 0.104104 12.5665 0C14.3311 13.0371 13.378 26.1939 19.5553 39.2896L0 39.2896C7.20645 26.6489 6.50786 13.1412 6.50786 0.104104Z" fill="#FFFF66" fill-rule="evenodd" transform="matrix(0.551492 0.83418 0.83418 -0.551492 5928.21 7105.76)"/>
-    <path d="M7.95906 0.106651 15.3687 0C17.5268 13.3561 16.3612 26.8348 23.916 40.251L0 40.251C8.81343 27.301 7.95906 13.4628 7.95906 0.106651Z" fill="#FFFF66" fill-rule="evenodd" transform="matrix(0.551492 0.83418 0.83418 -0.551492 6020.49 7112.83)"/>
-    <path d="M6.11825 0.106958 11.8141 0C13.4731 13.3946 12.5771 26.9121 18.3846 40.3669L0 40.3669C6.77502 27.3795 6.11825 13.5015 6.11825 0.106958Z" fill="#FFFF66" fill-rule="evenodd" transform="matrix(-0.606834 0.794829 0.794829 0.606834 5980.46 7068.51)"/>
-    <path d="M0.618571 0C0.809686 64.2975 0.516987 149.465-1.4348e-05 203.417 10.8086 596.462 33.9711 520.439 23.1933 201.412 23.6175 169.154 23.9435 130.874 23.6715 110.426" stroke="#FFFF66" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-0.140955 0.990016 0.990016 0.140955 5813.73 6999.76)"/>
-    <path d="M48.3672 2.00089C34.4064 0 21.9667 15.1427 14.0256 39.3924 0 77.7306 1.00026 143.485 18.9404 152.055 30.5997 155.239 51.5181 138.457 50.9756 199.377" stroke="#FFFF66" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-0.140955 0.990016 0.990016 0.140955 5647.93 6926.31)"/>
-    <path d="M9.93225 16.9559C19.4166 0 37.9464 2.7697 39.2911 37.6305 37.3983 42.6894 37.4356 29.843 30.6862 25.0386 23.9391 22.2074 19.5478 20.2213 11.5113 35.3356 7.03945 46.6691 9.07459 65.241 7.25276 70.874 5.43094 76.507 0 76.0001 0.580445 69.1343 1.12891 36.6832 5.80247 24.8024 9.93225 16.9559Z" fill="#FFFF66" fill-rule="evenodd" transform="matrix(-0.140955 0.990016 0.990016 0.140955 5575.73 6960.88)"/>
-    <path d="M5695.29 6987.48C5710.77 6999.03 5705.49 7016.51 5670.79 7012.9 5666.04 7010.36 5678.75 7012.21 5684.44 7006.37 5688.17 7000.26 5690.74 6996.3 5676.88 6986.42 5666.27 6980.51 5647.61 6979.85 5642.28 6977.3 5636.95 6974.75 5638.2 6969.58 5644.92 6971.11 5676.97 6976.21 5688.09 6982.39 5695.29 6987.48Z" fill="#FFFF66" fill-rule="evenodd"/>
-    <path d="M10.3135 3.04102C19.9184 0 23.7903 29.4342 32.4025 29.8887 43.3879 31.1344 36.7264 27.3851 39.1285 39.5542L3.11376 39.5542C3.22488 30.8492 0 8.76076 10.3135 3.04102Z" stroke="#FF0000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#FF0000" fill-rule="evenodd" transform="matrix(-0.140955 0.990016 0.990016 0.140955 5607.67 6977.65)"/>
-    <path d="M5676.91 6997.95C5678.25 7007.84 5650.19 7010.26 5646.13 7018.62 5644.52 7026.89 5643.72 7022.33 5638.38 7021.32L5645.54 6986.21C5653.24 6987.42 5673.29 6987.01 5676.91 6997.95Z" stroke="#FF0000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#FF0000" fill-rule="evenodd"/>
-    <path d="M0 37.5138C4.55107 37.895 9.10214 38.2762 12.0525 32.024 15.0028 25.7717 16.3524 12.8858 17.7021 0" stroke="#FF0000" stroke-width="20.625" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-0.140955 0.990016 0.990016 0.140955 5599.6 7012.01)"/>
-    <path d="M5641.7 7020.27C5640.56 7026.43 5639.43 7032.6 5642.94 7037.2 5646.45 7041.8 5654.59 7044.83 5662.74 7047.87" stroke="#FF0000" stroke-width="20.625" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
-    <path d="M0 6.63717C-7.27745e-16 2.97156 2.55922 -8.45001e-16 5.71617-1.69e-15 8.87313-3.38e-15 11.4323 2.97156 11.4323 6.63717 11.4323 10.3028 8.87313 13.2743 5.71617 13.2743 2.55922 13.2743-3.63873e-15 10.3028 0 6.63717Z" fill="#FFFFFF" fill-rule="evenodd" transform="matrix(-0.823844 0.566816 0.566816 0.823844 5625.89 6984.59)"/>
-    <path d="M0 8.3137C-5.24226e-16 3.72217 1.84351-1.05844e-15 4.1176-2.11689e-15 6.39169-4.23378e-15 8.2352 3.72217 8.2352 8.3137 8.2352 12.9052 6.39169 16.6274 4.1176 16.6274 1.84351 16.6274-2.62113e-15 12.9052 0 8.3137Z" fill="#FFFFFF" fill-rule="evenodd" transform="matrix(0.532937 0.846155 0.846155 -0.532937 5655.28 7000.12)"/>
-    <path d="M0 7.14332C-7.74565e-16 3.19817 2.72387 -9.0944e-16 6.08392-1.81888e-15 9.44398-3.63776e-15 12.1678 3.19817 12.1678 7.14332 12.1678 11.0885 9.44398 14.2866 6.08392 14.2866 2.72387 14.2866-3.87282e-15 11.0885 0 7.14332Z" fill="#FFFFFF" fill-rule="evenodd" transform="matrix(-0.990016 -0.140955 -0.140955 0.990016 5650.08 6990.6)"/>
-    <path d="M1.11589 0C1.52583 49.4696 0.0687238 116.327 0.203525 159.168 0 276.092 50.085 269.292 49.5386 154.964 49.2048 130.145 49.904 131.303 49.3206 115.571" stroke="#FFFF66" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-0.0802549 -0.996774 -0.996774 0.0802549 6168.53 7422.6)"/>
-    <path d="M6046.29 7387.07 6044.64 7377.39C6152.77 7365.82 6484.5 7347.29 6592.3 7339.98 6596.6 7350.62 6609.59 7339.18 6605.91 7350.47 6499.01 7356.31 6154.65 7378.34 6046.29 7387.07Z" fill="#FFFF66" fill-rule="evenodd"/>
-    <path d="M6176.11 7350.66 6179.83 7345.55C6190.76 7351.48 6200.08 7359.73 6213.82 7362.02L6201.56 7378.3C6196.55 7365.13 6185.93 7358.05 6176.11 7350.66Z" fill="#FFFF66" fill-rule="evenodd"/>
-    <path d="M6264.32 7346.97 6268.88 7340.74C6280.3 7346.52 6289.73 7355.14 6304.57 7356.46L6289.58 7376.37C6285.35 7361.69 6274.38 7354.55 6264.32 7346.97Z" fill="#FFFF66" fill-rule="evenodd"/>
-    <path d="M6216.48 7389.99 6213.09 7385.12C6222.62 7376.64 6233.72 7370.31 6240.89 7358.22L6251.56 7374.13C6237.46 7375.09 6226.97 7382.95 6216.48 7389.99Z" fill="#FFFF66" fill-rule="evenodd"/>
-    <path d="M6057.7 7459.02C6160.4 7450.51 6296.48 7439.93 6382.72 7433.65 6994.74 7378.54 6815.03 7372.94 6377.14 7404.29 6325.56 7407.9 6199.98 7418.89 6167.34 7421.87" stroke="#FFFF66" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
-    <path d="M5894.77 7474.67C5894.05 7489.33 5909.33 7501.11 5932.79 7507.53 5970.01 7519.2 6031.75 7513.18 6038.3 7493.89 6040.32 7481.53 6022.79 7461.07 6080.11 7457.02" stroke="#FFFF66" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
-    <path d="M5846.22 7474.27C5829.48 7465.7 5830.54 7446.24 5863.2 7442.21 5868.12 7443.79 5856.04 7444.72 5852.08 7452.1 5849.98 7459.32 5848.48 7464.03 5863.37 7471.24 5874.4 7475.02 5891.69 7471.5 5897.13 7472.97 5902.58 7474.44 5902.56 7480.12 5896.06 7480.03 5865.5 7481.92 5853.94 7477.96 5846.22 7474.27Z" fill="#FFFF66" fill-rule="evenodd"/>
-    <path d="M10.0872 15.9927C19.7194 0 38.5383 2.61236 39.9039 35.4928 37.9816 40.2643 38.0194 28.1477 31.1648 23.6162 24.3125 20.9459 19.8527 19.0726 11.6908 33.3283 7.14924 44.0179 9.21612 61.5348 7.36588 66.8478 5.51564 72.1608 0 71.6826 0.589498 65.2069 1.14651 34.5993 5.89296 23.3935 10.0872 15.9927Z" fill="#FFFF66" fill-rule="evenodd" transform="matrix(-0.0802549 -0.996774 -0.996774 0.0802549 5961.88 7475.55)"/>
-    <path d="M5864.48 7459.83C5860.82 7450.09 5888.17 7443.84 5887.88 7434.86 5888.13 7423.35 5885.16 7430.55 5896.4 7427.14L5899.41 7464.55C5891.22 7465.09 5870.72 7470.11 5864.48 7459.83Z" stroke="#FF0000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#FF0000" fill-rule="evenodd"/>
-    <path d="M10.7476 2.56971C20.7569 0 27.3722 25.8797 36.5971 28.5591 45.371 28.9644 40.7745 30.3137 40.5254 35.4324L3.24484 33.4239C3.36063 26.0681 0 7.40299 10.7476 2.56971Z" stroke="#FF0000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#FF0000" fill-rule="evenodd" transform="matrix(-0.0802549 -0.996774 -0.996774 0.0802549 5932.18 7465.15)"/>
-    <path d="M5891.86 7431.66C5891.83 7426.91 5891.81 7422.15 5885.69 7419.56 5879.56 7416.97 5867.33 7416.54 5855.11 7416.12" stroke="#FF0000" stroke-width="20.625" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
-    <path d="M0 23.3193C6.52585 23.5563 13.0517 23.7933 17.2822 19.9068 21.5128 16.0202 23.448 8.01007 25.3834 0" stroke="#FF0000" stroke-width="20.625" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-0.0802549 -0.996774 -0.996774 0.0802549 5919.92 7427.06)"/>
-    <path d="M5883.8 7459.08C5881.44 7462.09 5877.63 7463.04 5875.29 7461.21 5872.94 7459.37 5872.95 7455.45 5875.3 7452.44 5877.66 7449.43 5881.46 7448.48 5883.81 7450.31 5886.16 7452.14 5886.15 7456.07 5883.8 7459.08Z" fill="#FFFFFF" fill-rule="evenodd"/>
-    <path d="M5914.63 7455.96C5911.11 7453.44 5909.38 7449.83 5910.76 7447.9 5912.15 7445.98 5916.12 7446.47 5919.64 7448.99 5923.15 7451.52 5924.88 7455.13 5923.5 7457.06 5922.12 7458.98 5918.14 7458.49 5914.63 7455.96Z" fill="#FFFFFF" fill-rule="evenodd"/>
-    <path d="M5902.51 7452.94C5902.84 7457.04 5900.55 7460.57 5897.39 7460.82 5894.23 7461.08 5891.4 7457.96 5891.07 7453.86 5890.74 7449.76 5893.03 7446.24 5896.19 7445.98 5899.35 7445.73 5902.18 7448.84 5902.51 7452.94Z" fill="#FFFFFF" fill-rule="evenodd"/>
     <path d="M0-3.4375 481.339-3.4375 481.339 213.868 474.464 213.868 474.464 0 477.902 3.4375 0 3.4375ZM487.068 209.285 477.902 236.785 468.735 209.285Z" fill="#0070C0" transform="matrix(1.83697e-16 1 1 -1.83697e-16 5778.5 7202.5)"/>
     <path d="M5234.5 7062.16C5234.5 7045.78 5247.78 7032.5 5264.16 7032.5L5438.84 7032.5C5455.22 7032.5 5468.5 7045.78 5468.5 7062.16L5468.5 7080.84C5468.5 7097.22 5455.22 7110.5 5438.84 7110.5L5264.16 7110.5C5247.78 7110.5 5234.5 7097.22 5234.5 7080.84Z" stroke="#00B050" stroke-width="4.58333" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill14)" fill-rule="evenodd"/>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="41" transform="matrix(1 0 0 1 5250.52 7084)">𝑣</text>
@@ -3669,8 +3609,5 @@
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5456.23 7188)">𝐶𝑜𝑟𝑡𝑖𝑐𝑎𝑙𝑉</text>
     <text font-family="Cambria Math,Cambria Math_MSFontService,sans-serif" font-weight="400" font-size="30" transform="matrix(1 0 0 1 5459.07 7161)">𝑏</text>
     <path d="M5608.5 7160.06 5665.21 7160.06 5665.21 7166.94 5608.5 7166.94ZM5660.63 7154.33 5688.13 7163.5 5660.63 7172.67Z" fill="#0070C0"/>
-    <path d="M7066.2 5926.5C6406 6568.88 6116.04 8080.9 7659.5 8980.5" stroke="#7030A0" stroke-width="6.875" stroke-miterlimit="8" stroke-dasharray="27.5 20.625" fill="none" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="83" transform="matrix(1 0 0 1 6547.88 8098)">inner medulla</text>
-    <path d="M22.1151 6.92223 235.871 110.769 232.866 116.953 19.1108 13.1061ZM18.727 24.3847 0 0 30.7439-0.350776ZM236.254 99.4902 254.981 123.875 224.237 124.226Z" fill="#7030A0" transform="matrix(1 0 0 -1 6435.5 8090.38)"/>
   </g>
 </svg>
