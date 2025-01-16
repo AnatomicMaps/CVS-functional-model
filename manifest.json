@@ -98,7 +98,8 @@
             "href": "organ-models/Pulmonary_circulation.svg",
             "kind": "functional",
             "feature": "organ-lung/background",
-            "zoom": 8
+            "detail-fit": "fit-width",
+            "zoom": 7
         },
 
         {
