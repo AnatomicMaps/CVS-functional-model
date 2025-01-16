@@ -140,11 +140,43 @@
         },
 
         {
+            "id": "organ-kidney-lp",
+            "href": "images/Kidney-left.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{lPeritubular}$",
+            "detail-fit": "fit-height",
+            "zoom": 5
+        },
+        {
+            "id": "organ-kidney-rp",
+            "href": "images/Kidney-right.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{rPeritubular}$",
+            "detail-fit": "fit-height",
+            "zoom": 5
+        },
+        {
+            "id": "organ-kidney-lg",
+            "href": "images/Kidney-left.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{lGlomerulus}$",
+            "detail-fit": "fit-height",
+            "zoom": 5
+        },
+        {
+            "id": "organ-kidney-rg",
+            "href": "images/Kidney-right.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{rGlomerulus}$",
+            "detail-fit": "fit-height",
+            "zoom": 5
+        },
+        {
             "id": "kidney-model",
             "href": "organ-models/Renal_circulation.svg",
             "kind": "functional",
             "feature": "wholebody-cvs-model/kidney",
-            "zoom": 5
+            "zoom": 7
         },
 
         {
