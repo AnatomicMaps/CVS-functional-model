@@ -1,5 +1,5 @@
 {
-    "id": "WholeBodyCVS",
+    "id": "DetailedWholeBody",
     "models": "BG:CardioVascular",
     "properties": "properties.json",
     "kind": "functional",
@@ -8,6 +8,125 @@
             "id": "wholebody-cvs-model",
             "href": "Whole-body_circulation.svg",
             "kind": "base"
+        },
+
+        {
+            "id": "organ-brain",
+            "href": "images/Brain.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/cerebral-region",
+            "zoom": 4
+        },
+        {
+            "id": "cerebral-model",
+            "href": "organ-models/Cerebral_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-brain/background",
+            "zoom": 7
+        },
+
+        {
+            "id": "organ-heart-ra",
+            "href": "images/Heart-RA.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{RA}$",
+            "zoom": 5
+        },
+        {
+            "id": "organ-heart-rv",
+            "href": "images/Heart-RV.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{RV}$",
+            "zoom": 5
+        },
+        {
+            "id": "organ-heart-la",
+            "href": "images/Heart-LA.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{LA}$",
+            "zoom": 5
+        },
+        {
+            "id": "organ-heart-lv",
+            "href": "images/Heart-LV.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{LV}$",
+            "zoom": 5
+        },
+        {
+            "id": "coronary-model",
+            "href": "organ-models/Coronary_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-heart-lv/background",
+            "zoom": 8
+        },
+
+        {
+            "id": "organ-lung",
+            "href": "images/Lungs.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{lung}$",
+            "zoom": 5
+        },
+        {
+            "id": "lung-model",
+            "href": "organ-models/Pulmonary_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-lung/background",
+            "zoom": 8
+        },
+
+        {
+            "id": "organ-colon",
+            "href": "images/Colon.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{colon}$",
+            "zoom": 5
+        },
+        {
+            "id": "organ-intestine",
+            "href": "images/Intestines.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{intestine}$",
+            "zoom": 5
+        },
+        {
+            "id": "intestines-colon-model",
+            "href": "organ-models/Intestines_colon_circulation.svg",
+            "kind": "functional",
+            "feature": "wholebody-cvs-model/intestines-colon",
+            "zoom": 7
+        },
+
+        {
+            "id": "organ-pancreas",
+            "href": "images/Pancreas.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{pancreas}$",
+            "zoom": 5
+        },
+        {
+            "id": "pancreas-model",
+            "href": "organ-models/Pancreas_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-pancreas/background",
+            "zoom": 8
+        },
+
+        {
+            "id": "kidney-model",
+            "href": "organ-models/Renal_circulation.svg",
+            "kind": "functional",
+            "feature": "wholebody-cvs-model/kidney",
+            "zoom": 5
+        },
+
+        {
+            "id": "stomach-model",
+            "href": "organ-models/Stomach_circulation.svg",
+            "kind": "functional",
+            "feature": "wholebody-cvs-model/$u^{b}_{stomach}$",
+            "zoom": 5
         }
     ]
 }
