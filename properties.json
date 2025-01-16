@@ -1,4 +1,52 @@
 {
+  "feature-groups": [
+    {
+      "layer": "wholebody-cvs-model",
+      "groups": [
+        {
+          "id": "wholebody-cvs-model/adrenal-gland",
+          "features": [
+              "wholebody-cvs-model/$u^{b}_{lAdrenalGland}$",
+              "wholebody-cvs-model/$u^{b}_{rAdrenalGland}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/cerebral-region",
+          "features": [
+              "wholebody-cvs-model/$u^{b}_{Basilar}$",
+              "wholebody-cvs-model/$v^{b}_{rMCA}$",
+              "wholebody-cvs-model/$u^{b}_{rMCA}$",
+              "wholebody-cvs-model/$v^{b}_{rBrain1}$",
+              "wholebody-cvs-model/$v^{b}_{rBrain2}$",
+              "wholebody-cvs-model/$v^{b}_{lMCA}$",
+              "wholebody-cvs-model/$u^{b}_{lMCA}$",
+              "wholebody-cvs-model/$v^{b}_{lBrain1}$",
+              "wholebody-cvs-model/$v^{b}_{lBrain2}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/kidney",
+          "features": [
+              "wholebody-cvs-model/$u^{b}_{lPeritubular}$",
+              "wholebody-cvs-model/$u^{b}_{rPeritubular}$",
+              "wholebody-cvs-model/$u^{b}_{lGlomerulus}$",
+              "wholebody-cvs-model/$u^{b}_{rGlomerulus}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/intestines-colon",
+          "features": [
+              "wholebody-cvs-model/$v^{b}_{intestine1}$",
+              "wholebody-cvs-model/$u^{b}_{intestine}$",
+              "wholebody-cvs-model/$v^{b}_{intestine2}$",
+              "wholebody-cvs-model/$v^{b}_{colon1}$",
+              "wholebody-cvs-model/$u^{b}_{colon}$",
+              "wholebody-cvs-model/$v^{b}_{colon2}$"
+          ]
+        }
+      ]
+    }
+  ],
   "features": {
   }
 }
