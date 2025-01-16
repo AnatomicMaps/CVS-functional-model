@@ -33,11 +33,27 @@
             "zoom": 5
         },
         {
+            "id": "coronary-model-ra",
+            "href": "organ-models/Coronary_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-heart-ra/background",
+            "detail-fit": "fit-width",
+            "zoom": 7
+        },
+        {
             "id": "organ-heart-rv",
             "href": "images/Heart-RV.svg",
             "kind": "anatomical",
             "feature": "wholebody-cvs-model/$u^{b}_{RV}$",
             "zoom": 5
+        },
+        {
+            "id": "coronary-model-rv",
+            "href": "organ-models/Coronary_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-heart-rv/background",
+            "detail-fit": "fit-width",
+            "zoom": 7
         },
         {
             "id": "organ-heart-la",
@@ -47,6 +63,14 @@
             "zoom": 5
         },
         {
+            "id": "coronary-model-la",
+            "href": "organ-models/Coronary_circulation.svg",
+            "kind": "functional",
+            "feature": "organ-heart-la/background",
+            "detail-fit": "fit-width",
+            "zoom": 7
+        },
+        {
             "id": "organ-heart-lv",
             "href": "images/Heart-LV.svg",
             "kind": "anatomical",
@@ -54,11 +78,12 @@
             "zoom": 5
         },
         {
-            "id": "coronary-model",
+            "id": "coronary-model-lv",
             "href": "organ-models/Coronary_circulation.svg",
             "kind": "functional",
             "feature": "organ-heart-lv/background",
-            "zoom": 8
+            "detail-fit": "fit-width",
+            "zoom": 7
         },
 
         {
