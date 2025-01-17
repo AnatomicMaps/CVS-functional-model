@@ -143,6 +143,14 @@
         },
 
         {
+            "id": "organ-liver",
+            "href": "images/Liver.svg",
+            "kind": "anatomical",
+            "feature": "wholebody-cvs-model/$u^{b}_{liver}$",
+            "zoom": 5
+        },
+
+        {
             "id": "stomach-model",
             "href": "organ-models/Stomach_circulation.svg",
             "kind": "functional",
