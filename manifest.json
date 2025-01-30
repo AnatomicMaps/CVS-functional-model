@@ -25,8 +25,8 @@
             "id": "cerebral-model",
             "href": "organ-models/Cerebral_circulation.svg",
             "kind": "functional",
-            "feature": "organ-brain/background",
-            "zoom": 7
+            "feature": "wholebody-cvs-model/cerebral-region",
+            "zoom": 6
         },
 
         {
@@ -54,7 +54,7 @@
             "id": "coronary-model-ra",
             "href": "organ-models/Coronary_circulation.svg",
             "kind": "functional",
-            "feature": "organ-heart-ra/background",
+            "feature": "wholebody-cvs-model/$u^{b}_{RA}$",
             "detail-fit": "fit-width",
             "zoom": 7
         },
@@ -69,7 +69,7 @@
             "id": "coronary-model-rv",
             "href": "organ-models/Coronary_circulation.svg",
             "kind": "functional",
-            "feature": "organ-heart-rv/background",
+            "feature": "wholebody-cvs-model/$u^{b}_{RV}$",
             "detail-fit": "fit-width",
             "zoom": 7
         },
@@ -84,7 +84,7 @@
             "id": "coronary-model-la",
             "href": "organ-models/Coronary_circulation.svg",
             "kind": "functional",
-            "feature": "organ-heart-la/background",
+            "feature": "wholebody-cvs-model/$u^{b}_{LA}$",
             "detail-fit": "fit-width",
             "zoom": 7
         },
@@ -99,7 +99,7 @@
             "id": "coronary-model-lv",
             "href": "organ-models/Coronary_circulation.svg",
             "kind": "functional",
-            "feature": "organ-heart-lv/background",
+            "feature": "wholebody-cvs-model/$u^{b}_{LV}$",
             "detail-fit": "fit-width",
             "zoom": 7
         },
@@ -171,7 +171,7 @@
             "id": "pancreas-model",
             "href": "organ-models/Pancreas_circulation.svg",
             "kind": "functional",
-            "feature": "organ-pancreas/background",
+            "feature": "wholebody-cvs-model/$u^{b}_{pancreas}$",
             "zoom": 8
         },
 
