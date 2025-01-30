@@ -13,6 +13,7 @@
         {
           "id": "wholebody-cvs-model/cerebral-region",
           "features": [
+              "wholebody-cvs-model/$u^{b}_{Hypothal}$",
               "wholebody-cvs-model/$u^{b}_{Basilar}$",
               "wholebody-cvs-model/$v^{b}_{rMCA}$",
               "wholebody-cvs-model/$u^{b}_{rMCA}$",
