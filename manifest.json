@@ -41,6 +41,16 @@
             "detail-fit": "fit-width",
             "zoom": 6
         },
+        {
+            "id": "lung-capillary",
+            "href": "capillary-bed/Layers_BG_model.svg",
+            "kind": "functional",
+            "feature": "lung-model/$u^{b}_{lULobeC}$",
+            "background": {
+                "href": "capillary-bed/Layers_background.svg"
+            },
+            "detail-fit": "fit-height",
+            "zoom": 9
         },
 
         {
