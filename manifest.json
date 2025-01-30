@@ -7,7 +7,11 @@
         {
             "id": "wholebody-cvs-model",
             "href": "Whole-body_circulation.svg",
-            "kind": "base"
+            "kind": "base",
+            "background": {
+                "hrefx": "Whole-body_background.svg",
+                "href": "images/Male_frontal_background_with_lungs.svg"
+            }
         },
 
         {
