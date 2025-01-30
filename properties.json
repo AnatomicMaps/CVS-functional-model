@@ -26,6 +26,14 @@
           ]
         },
         {
+          "id": "wholebody-cvs-model/lung",
+          "features": [
+              "wholebody-cvs-model/$u^{b}_{PulmA}$",
+              "wholebody-cvs-model/$v^{b}_{Lung}$",
+              "wholebody-cvs-model/$u^{b}_{PulmV}$"
+          ]
+        },
+        {
           "id": "wholebody-cvs-model/kidney",
           "features": [
               "wholebody-cvs-model/$u^{b}_{lPeritubular}$",

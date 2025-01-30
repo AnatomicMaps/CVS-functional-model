@@ -26,19 +26,17 @@
         },
 
         {
-            "id": "organ-lung",
-            "href": "images/Lungs.svg",
-            "kind": "anatomical",
-            "feature": "wholebody-cvs-model/$u^{b}_{lung}$",
-            "zoom": 5
-        },
-        {
             "id": "lung-model",
             "href": "organ-models/Pulmonary_circulation.svg",
             "kind": "functional",
-            "feature": "organ-lung/background",
+            "feature": "wholebody-cvs-model/lung",
+            "alignment": [
+                [ "wholebody-cvs-model/$u^{b}_{PulmA}$", "lung-model/$u^{b}_{PulmA}$"],
+                [ "wholebody-cvs-model/$u^{b}_{PulmV}$", "lung-model/$u^{b}_{PulmV}$"]
+            ],
             "detail-fit": "fit-width",
-            "zoom": 7
+            "zoom": 6
+        },
         },
 
         {
