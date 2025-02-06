@@ -1,0 +1,16 @@
+{
+    "id": "Cell",
+    "kind": "functional",
+    "sources": [
+        {
+            "id": "cell",
+            "href": "VSMC.svg",
+            "kind": "base",
+            "background": {
+                "href": "Background.svg",
+                "offset": [318, -366],
+                "scale": 1.0
+            }
+        }
+    ]
+}
