@@ -1,0 +1,11 @@
+{
+    "id": "Capillary",
+    "kind": "functional",
+    "sources": [
+        {
+            "id": "capillary",
+            "href": "Layers_BG_model.svg",
+            "kind": "base"
+        }
+    ]
+}
