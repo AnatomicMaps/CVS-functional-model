@@ -6,21 +6,10 @@
     "sources": [
         {
             "id": "wholebody-cvs-model",
-            "href": "Whole-body_circulation.svg",
-            "kind": "base",
-            "background": {
-                "hrefx": "Whole-body_background.svg",
-                "href": "images/Male_frontal_background_with_lungs.svg"
-            }
+            "href": "Whole-body_circulation_with_background.svg",
+            "kind": "base"
         },
 
-        {
-            "id": "organ-brain",
-            "href": "images/Brain.svg",
-            "kind": "anatomical",
-            "feature": "wholebody-cvs-model/cerebral-region",
-            "zoom": 4
-        },
         {
             "id": "cerebral-model",
             "href": "organ-models/Cerebral_circulation.svg",
@@ -46,9 +35,6 @@
             "href": "capillary-bed/Layers_BG_model.svg",
             "kind": "functional",
             "feature": "lung-model/$u^{b}_{lULobeC}$",
-            "background": {
-                "href": "capillary-bed/Layers_background.svg"
-            },
             "detail-fit": "fit-height",
             "zoom": 9
         },
