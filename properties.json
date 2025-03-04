@@ -36,10 +36,9 @@
         {
           "id": "wholebody-cvs-model/kidney",
           "features": [
-              "wholebody-cvs-model/$u^{b}_{lPeritubular}$",
-              "wholebody-cvs-model/$u^{b}_{rPeritubular}$",
-              "wholebody-cvs-model/$u^{b}_{lGlomerulus}$",
-              "wholebody-cvs-model/$u^{b}_{rGlomerulus}$"
+              "wholebody-cvs-model/$u^{b}_{lRenalV}$",
+              "wholebody-cvs-model/$v^{b}_{lKidney}$",
+              "wholebody-cvs-model/$u^{b}_{lRenalA}$"
           ]
         },
         {
