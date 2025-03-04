@@ -1,0 +1,9 @@
+{
+    "features": {
+        "capillary/SHAPE_3": {
+            "hyperlinks": {
+                "flatmap": "Cell"
+            }
+        }
+    }
+}

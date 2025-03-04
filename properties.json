@@ -56,5 +56,15 @@
     }
   ],
   "features": {
+    "lung-model/$u^{b}_{lULobeC}$": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+    "kidney-model/FTU:1": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    }
   }
 }
