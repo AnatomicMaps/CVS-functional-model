@@ -1,9 +1,13 @@
 {
     "features": {
         "capillary/SHAPE_3": {
+            "label": "Endothelial cell",
             "hyperlinks": {
                 "flatmap": "Cell"
             }
+        },
+        "capillary/SHAPE_5": {
+            "label": "Epithelial cell"
         }
     }
 }
