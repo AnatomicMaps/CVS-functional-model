@@ -19,24 +19,79 @@
         },
 
         {
-            "id": "lung-model",
+            "id": "lung-model-lU",
             "href": "organ-models/Pulmonary_circulation.svg",
             "kind": "functional",
-            "feature": "wholebody-cvs-model/lung",
+            "description": "Left upper lung lobe",
+            "feature": "wholebody-cvs-model/lung-lU",
+            "details": "wholebody-cvs-model/$u^{b}_{lULobeC}$",
             "alignment": [
-                [ "wholebody-cvs-model/$u^{b}_{PulmA}$", "lung-model/$u^{b}_{PulmA}$"],
-                [ "wholebody-cvs-model/$u^{b}_{PulmV}$", "lung-model/$u^{b}_{PulmV}$"]
+                [ "wholebody-cvs-model/$v^{b}_{lULobeA}$", "lung-model-lU/$v^{b}_{Gen2A}$"],
+                [ "wholebody-cvs-model/$v^{b}_{lULobeV}$", "lung-model-lU/$v^{b}_{Gen2V}$"]
             ],
+
             "detail-fit": "fit-width",
-            "zoom": 6
+            "zoom": 5
         },
         {
-            "id": "lung-capillary",
-            "href": "capillary-bed/Layers_BG_model.svg",
+            "id": "lung-model-rU",
+            "href": "organ-models/Pulmonary_circulation.svg",
             "kind": "functional",
-            "feature": "lung-model/$u^{b}_{lULobeC}$",
-            "detail-fit": "fit-height",
-            "zoom": 9
+            "description": "Right upper lung lobe",
+            "feature": "wholebody-cvs-model/lung-rU",
+            "details": "wholebody-cvs-model/$u^{b}_{rULobeC}$",
+            "alignment": [
+                [ "wholebody-cvs-model/$v^{b}_{rULobeA}$", "lung-model-rU/$v^{b}_{Gen2A}$"],
+                [ "wholebody-cvs-model/$v^{b}_{rULobeV}$", "lung-model-rU/$v^{b}_{Gen2V}$"]
+            ],
+
+            "detail-fit": "fit-width",
+            "zoom": 5
+        },
+        {
+            "id": "lung-model-rM",
+            "href": "organ-models/Pulmonary_circulation.svg",
+            "kind": "functional",
+            "description": "Right middle lung lobe",
+            "feature": "wholebody-cvs-model/lung-rM",
+            "details": "wholebody-cvs-model/$u^{b}_{rMLobeC}$",
+            "alignment": [
+                [ "wholebody-cvs-model/$v^{b}_{rMLobeA}$", "lung-model-rM/$v^{b}_{Gen2A}$"],
+                [ "wholebody-cvs-model/$v^{b}_{rMLobeV}$", "lung-model-rM/$v^{b}_{Gen2V}$"]
+            ],
+
+            "detail-fit": "fit-width",
+            "zoom": 5
+        },
+        {
+            "id": "lung-model-lL",
+            "href": "organ-models/Pulmonary_circulation.svg",
+            "kind": "functional",
+            "description": "Left lower lung lobe",
+            "feature": "wholebody-cvs-model/lung-lL",
+            "details": "wholebody-cvs-model/$u^{b}_{lLobeA}$",
+            "alignment": [
+                [ "wholebody-cvs-model/$v^{b}_{lLLobeA}$", "lung-model-lL/$v^{b}_{Gen2A}$"],
+                [ "wholebody-cvs-model/$v^{b}_{lLLobeV}$", "lung-model-lL/$v^{b}_{Gen2V}$"]
+            ],
+
+            "detail-fit": "fit-width",
+            "zoom": 5
+        },
+        {
+            "id": "lung-model-rL",
+            "href": "organ-models/Pulmonary_circulation.svg",
+            "kind": "functional",
+            "description": "Right lower lung lobe",
+            "feature": "wholebody-cvs-model/lung-rL",
+            "details": "wholebody-cvs-model/$u^{b}_{LLobeC}$",
+            "alignment": [
+                [ "wholebody-cvs-model/$v^{b}_{rLLobeA}$", "lung-model-rL/$v^{b}_{Gen2A}$"],
+                [ "wholebody-cvs-model/$v^{b}_{rLLobeV}$", "lung-model-rL/$v^{b}_{Gen2V}$"]
+            ],
+
+            "detail-fit": "fit-width",
+            "zoom": 5
         },
 
         {
@@ -100,17 +155,33 @@
             "zoom": 7
         },
 
-
         {
-            "id": "kidney-model",
+            "id": "left-kidney-model",
+            "description": "Left kidney",
             "href": "organ-models/Renal_circulation.svg",
             "kind": "functional",
-            "feature": "wholebody-cvs-model/kidney",
+            "feature": "wholebody-cvs-model/left-kidney",
+            "details": "wholebody-cvs-model/$v^{b}_{lKidney}$",
             "alignment": [
-                [ "wholebody-cvs-model/$u^{b}_{lRenalA}$", "kidney-model/$u^{b}_{RenalA}$"],
-                [ "wholebody-cvs-model/$u^{b}_{lRenalV}$", "kidney-model/$u^{b}_{RenalV}$"]
+                [ "wholebody-cvs-model/$u^{b}_{lRenalA}$", "left-kidney-model/$u^{b}_{RenalA}$"],
+                [ "wholebody-cvs-model/$u^{b}_{lRenalV}$", "left-kidney-model/$u^{b}_{RenalV}$"]
             ],
-            "zoom": 6
+            "detail-fit": "fit-width",
+            "zoom": 5
+        },
+        {
+            "id": "right-kidney-model",
+            "description": "Right kidney",
+            "href": "organ-models/Renal_circulation.svg",
+            "kind": "functional",
+            "feature": "wholebody-cvs-model/right-kidney",
+            "details": "wholebody-cvs-model/$v^{b}_{rKidney}$",
+            "alignment": [
+                [ "wholebody-cvs-model/$u^{b}_{rRenalA}$", "right-kidney-model/$u^{b}_{RenalA}$"],
+                [ "wholebody-cvs-model/$u^{b}_{rRenalV}$", "right-kidney-model/$u^{b}_{RenalV}$"]
+            ],
+            "detail-fit": "fit-width",
+            "zoom": 5
         },
 
         {

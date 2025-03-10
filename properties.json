@@ -25,20 +25,62 @@
               "wholebody-cvs-model/$v^{b}_{lBrain2}$"
           ]
         },
+
         {
-          "id": "wholebody-cvs-model/lung",
+          "id": "wholebody-cvs-model/lung-lU",
           "features": [
-              "wholebody-cvs-model/$u^{b}_{PulmA}$",
-              "wholebody-cvs-model/$v^{b}_{Lung}$",
-              "wholebody-cvs-model/$u^{b}_{PulmV}$"
+              "wholebody-cvs-model/$v^{b}_{lULobeA}$",
+              "wholebody-cvs-model/$u^{b}_{lULobeC}$",
+              "wholebody-cvs-model/$v^{b}_{lULobeV}$"
           ]
         },
         {
-          "id": "wholebody-cvs-model/kidney",
+          "id": "wholebody-cvs-model/lung-rU",
+          "features": [
+              "wholebody-cvs-model/$v^{b}_{rULobeA}$",
+              "wholebody-cvs-model/$u^{b}_{rULobeC}$",
+              "wholebody-cvs-model/$v^{b}_{rULobeV}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/lung-rM",
+          "features": [
+              "wholebody-cvs-model/$v^{b}_{rMLobeA}$",
+              "wholebody-cvs-model/$u^{b}_{rMLobeC}$",
+              "wholebody-cvs-model/$v^{b}_{rMLobeV}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/lung-lL",
+          "features": [
+              "wholebody-cvs-model/$v^{b}_{lLLobeA}$",
+              "wholebody-cvs-model/$u^{b}_{lLobeA}$",
+              "wholebody-cvs-model/$v^{b}_{lLLobeV}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/lung-rL",
+          "features": [
+              "wholebody-cvs-model/$v^{b}_{rLLobeA}$",
+              "wholebody-cvs-model/$u^{b}_{LLobeC}$",
+              "wholebody-cvs-model/$v^{b}_{rLLobeV}$"
+          ]
+        },
+
+        {
+          "id": "wholebody-cvs-model/left-kidney",
           "features": [
               "wholebody-cvs-model/$u^{b}_{lRenalV}$",
               "wholebody-cvs-model/$v^{b}_{lKidney}$",
               "wholebody-cvs-model/$u^{b}_{lRenalA}$"
+          ]
+        },
+        {
+          "id": "wholebody-cvs-model/right-kidney",
+          "features": [
+              "wholebody-cvs-model/$u^{b}_{rRenalV}$",
+              "wholebody-cvs-model/$v^{b}_{rKidney}$",
+              "wholebody-cvs-model/$u^{b}_{rRenalA}$"
           ]
         },
         {
@@ -56,12 +98,52 @@
     }
   ],
   "features": {
-    "lung-model/$u^{b}_{lULobeC}$": {
+
+    "lung-model-lU/FTU": {
       "hyperlinks": {
         "flatmap": "Capillary"
       }
     },
-    "kidney-model/FTU:1": {
+    "lung-model-rU/FTU": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+    "lung-model-rM/FTU": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+    "lung-model-lL/FTU": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+    "lung-model-rL/FTU": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+
+    "wholebody-cvs-model/$v^{b}_{lRenalV}$": {
+      "associated-details": "left-kidney-model"
+    },
+    "wholebody-cvs-model/$v^{b}_{lRenalA}$": {
+      "associated-details": "left-kidney-model"
+    },
+    "left-kidney-model/FTU:1": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+
+    "wholebody-cvs-model/$v^{b}_{rRenalV}$": {
+      "associated-details": "right-kidney-model"
+    },
+    "wholebody-cvs-model/$v^{b}_{rRenalA}$": {
+      "associated-details": "right-kidney-model"
+    },
+    "right-kidney-model/FTU:1": {
       "hyperlinks": {
         "flatmap": "Capillary"
       }
