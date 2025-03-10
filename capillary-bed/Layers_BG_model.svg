@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" overflow="hidden" viewBox="-787.7045 -32.3689 2162.5021 3105.0069">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" overflow="hidden" viewBox="0.4836 -25.9328 1368.1684 3098.5708">
     <defs>
         <linearGradient x1="1122.5" y1="639.5" x2="1291.5" y2="639.5" gradientUnits="userSpaceOnUse" spreadMethod="reflect" id="fill0">
             <stop offset="0" stop-color="#FFCC66"/>
@@ -49,16 +49,6 @@
             <rect x="3160" y="591" width="1363" height="533" fill="#EBDED0"/>
             <rect x="3161" y="50.9999" width="1362" height="571" fill="#FADADA"/>
             <rect x="3160" y="2514" width="1363" height="630" fill="#FFF2CC"/>
-        </g>
-        <g transform="matrix(1, 0, 0, 1, -3237.468555, -63.106111)">
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2855.67 338)" style="white-space: pre;">Capillary</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2656.8 870)" style="white-space: pre;">Endothelial cells</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2709.76 1774)" style="white-space: pre;">Epithelial cells</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2650.69 1328)" style="white-space: pre;">Interstitial space</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2613.41 2272)" style="white-space: pre;">Epithelial lining fluid</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2815.95 2349)" style="white-space: pre;">(ELF)</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(1 0 0 1 2767.46 2797)" style="white-space: pre;">Air space</text>
-            <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="64" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 2560.11 2716)" style="white-space: pre;">Epithelial duct</text>
         </g>
     </g>
     <g transform="translate(-635 -94)">
