@@ -1,0 +1,11 @@
+{
+    "id": "RAAS",
+    "kind": "functional",
+    "sources": [
+        {
+            "id": "raas",
+            "href": "RAAS.svg",
+            "kind": "base"
+        }
+    ]
+}
