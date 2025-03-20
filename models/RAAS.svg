@@ -15797,7 +15797,7 @@
     <path d="M5571 3045.46C5571 3033.61 5580.61 3024 5592.46 3024L5692.54 3024C5704.39 3024 5714 3033.61 5714 3045.46L5714 3080.54C5714 3092.39 5704.39 3102 5692.54 3102L5592.46 3102C5580.61 3102 5571 3092.39 5571 3080.54Z" fill="url(#fill51)" fill-rule="evenodd"/>
     <text font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="400" font-size="55" transform="matrix(1 0 0 1 5613.62 3081)">Rx</text>
     <text fill="#00B050" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 2984.99 1513)">Para</text>
-    <text fill="#00B050" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 3071.5 1513)">ympathetic</text>
+    <text fill="#00B050" font-family="Aptos,Aptos_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 3071.5 1513)">sympathetic</text>
     <path d="M1669.84 2464.24 1669.84 2081.84 2007.39 2081.84 2007.39 2092.16 1675 2092.16 1680.16 2087 1680.16 2464.24ZM2002.23 2071.53 2033.17 2087 2002.23 2102.47Z" fill="#FF66CC"/>
     <path d="M1496.5 2501.08C1496.5 2480.88 1512.88 2464.5 1533.08 2464.5L1818.92 2464.5C1839.12 2464.5 1855.5 2480.88 1855.5 2501.08L1855.5 2548.92C1855.5 2569.12 1839.12 2585.5 1818.92 2585.5L1533.08 2585.5C1512.88 2585.5 1496.5 2569.12 1496.5 2548.92Z" stroke="#FF0000" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill52)" fill-rule="evenodd"/>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="55" transform="matrix(1 0 0 1 1540.08 2543)">Blood gases</text>
