@@ -15575,7 +15575,7 @@
     <path d="M2899.5 2649.25C2899.5 2631.16 2914.16 2616.5 2932.25 2616.5L3677.75 2616.5C3695.84 2616.5 3710.5 2631.16 3710.5 2649.25L3710.5 2702.76C3710.5 2720.84 3695.84 2735.5 3677.75 2735.5L2932.25 2735.5C2914.16 2735.5 2899.5 2720.84 2899.5 2702.76Z" stroke="#FF0000" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill1)" fill-rule="evenodd"/>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="55" transform="matrix(1 0 0 1 3284.36 2693)">JG cells</text>
     <path d="M3549.5 2609.14C3549.5 2598.84 3557.84 2590.5 3568.14 2590.5L3660.86 2590.5C3671.16 2590.5 3679.5 2598.84 3679.5 2609.14L3679.5 2649.86C3679.5 2660.16 3671.16 2668.5 3660.86 2668.5L3568.14 2668.5C3557.84 2668.5 3549.5 2660.16 3549.5 2649.86Z" stroke="#000000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#66FFFF" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 3577.93 2643)"></text>
+    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 3577.93 2643)">β</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="28" transform="matrix(1 0 0 1 3600.85 2652)">1</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 3614.6 2643)">-</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 3627.2 2643)">R</text>
@@ -15815,19 +15815,19 @@
     <path d="M0 0 77.9528 0.0656824" stroke="#7030A0" stroke-width="10.3125" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 3716.95 2405)"/>
     <path d="M3633 2440.96 3633 2376" stroke="#7030A0" stroke-width="10.3125" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd"/>
     <path d="M3727.5 2390.08C3727.5 2377.06 3738.06 2366.5 3751.08 2366.5L3950.92 2366.5C3963.94 2366.5 3974.5 2377.06 3974.5 2390.08L3974.5 2420.92C3974.5 2433.94 3963.94 2444.5 3950.92 2444.5L3751.08 2444.5C3738.06 2444.5 3727.5 2433.94 3727.5 2420.92Z" stroke="#FF33CC" stroke-width="6.875" stroke-linejoin="round" stroke-miterlimit="10" fill="url(#fill58)" fill-rule="evenodd"/>
-    <text font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="46" transform="matrix(1 0 0 1 3753.63 2421)"></text>
+    <text font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="46" transform="matrix(1 0 0 1 3753.63 2421)">β</text>
     <text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="46" transform="matrix(1 0 0 1 3789.15 2421)">blockers</text>
     <path d="M0 0 64.9606 0.000360892" stroke="#7030A0" stroke-width="10.3125" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-1 1.22465e-16 1.22465e-16 1 3699.96 2316)"/>
     <path d="M0 0 0.000360892 64.9606" stroke="#7030A0" stroke-width="10.3125" stroke-linejoin="round" stroke-miterlimit="10" fill="none" fill-rule="evenodd" transform="matrix(-1 1.22465e-16 1.22465e-16 1 3633 2284)"/>
     <text fill="#FF00FF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="55" transform="matrix(1 0 0 1 3731.11 2334)">Denervation</text>
     <path d="M25.7815-5.15625 1001.25-5.15625 1001.25 1857.87 990.942 1857.87 990.942 0 996.098 5.15625 25.7815 5.15625ZM30.9375 15.4688 0 0 30.9375-15.4688Z" fill="#DC81D1" transform="matrix(-1.83697e-16 -1 -1 1.83697e-16 4761.87 2775.1)"/>
     <path d="M5410.5 3321.14C5410.5 3310.84 5418.84 3302.5 5429.14 3302.5L5521.86 3302.5C5532.16 3302.5 5540.5 3310.84 5540.5 3321.14L5540.5 3361.86C5540.5 3372.16 5532.16 3380.5 5521.86 3380.5L5429.14 3380.5C5418.84 3380.5 5410.5 3372.16 5410.5 3361.86Z" stroke="#000000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#D9F2D0" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5438.83 3355)"></text>
+    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5438.83 3355)">β</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="28" transform="matrix(1 0 0 1 5461.75 3364)">1</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5475.5 3355)">-</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5488.1 3355)">R</text>
     <path d="M5410.5 3465.44C5410.5 3452.77 5420.77 3442.5 5433.44 3442.5L5541.56 3442.5C5554.23 3442.5 5564.5 3452.77 5564.5 3465.44L5564.5 3515.56C5564.5 3528.23 5554.23 3538.5 5541.56 3538.5L5433.44 3538.5C5420.77 3538.5 5410.5 3528.23 5410.5 3515.56Z" stroke="#000000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#D9F2D0" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5450.7 3504)"></text>
+    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5450.7 3504)">β</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="28" transform="matrix(1 0 0 1 5473.62 3513)">2</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5487.37 3504)">-</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 5499.97 3504)">R</text>
@@ -15844,7 +15844,7 @@
     <path d="M0-2.29167 444.024-2.29167 444.024 336.224 439.441 336.224 439.441 0 441.732 2.29167 0 2.29167ZM455.482 331.641 441.732 359.141 427.982 331.641Z" fill="#FF66CC" transform="matrix(-1 1.22465e-16 1.22465e-16 1 5430.23 2416.5)"/>
     <path d="M5754.5 2414.21 7030.02 2414.21 7030.02 2752.72 7025.44 2752.72 7025.44 2416.5 7027.73 2418.79 5754.5 2418.79ZM7041.48 2748.14 7027.73 2775.64 7013.98 2748.14Z" fill="#FF66CC"/>
     <path d="M4010.5 3756.34C4010.5 3744.28 4020.28 3734.5 4032.34 3734.5L4092.66 3734.5C4104.72 3734.5 4114.5 3744.28 4114.5 3756.34L4114.5 3777.66C4114.5 3789.72 4104.72 3799.5 4092.66 3799.5L4032.34 3799.5C4020.28 3799.5 4010.5 3789.72 4010.5 3777.66Z" stroke="#000000" stroke-width="3.4375" stroke-linejoin="round" stroke-miterlimit="10" fill="#66FFFF" fill-rule="evenodd"/>
-    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 4026.03 3781)"></text>
+    <text fill="#7030A0" font-family="Symbol,Symbol_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 4026.03 3781)">β</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="28" transform="matrix(1 0 0 1 4048.95 3790)">1</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 4062.7 3781)">-</text>
     <text fill="#7030A0" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="41" transform="matrix(1 0 0 1 4075.3 3781)">R</text>
