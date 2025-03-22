@@ -1,0 +1,11 @@
+{
+    "id": "BloodPressure",
+    "kind": "functional control",
+    "sources": [
+        {
+            "id": "bp",
+            "href": "Blood_pressure.svg",
+            "kind": "base"
+        }
+    ]
+}
