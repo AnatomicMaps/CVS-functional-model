@@ -182,59 +182,6 @@
             ],
             "detail-fit": "fit-width",
             "zoom": 5
-        },
-
-        {
-            "id": "organ-liver",
-            "href": "images/Liver.svg",
-            "kind": "anatomical",
-            "feature": "wholebody-cvs-model/$u^{b}_{liver}$",
-            "zoom": 5
-        },
-
-        {
-            "id": "stomach-model",
-            "href": "organ-models/Stomach_circulation.svg",
-            "kind": "functional",
-            "feature": "wholebody-cvs-model/$u^{b}_{stomach}$",
-            "zoom": 5
-        },
-
-        {
-            "id": "organ-pancreas",
-            "href": "images/Pancreas.svg",
-            "kind": "anatomical",
-            "feature": "wholebody-cvs-model/$u^{b}_{pancreas}$",
-            "zoom": 5
-        },
-        {
-            "id": "pancreas-model",
-            "href": "organ-models/Pancreas_circulation.svg",
-            "kind": "functional",
-            "feature": "wholebody-cvs-model/$u^{b}_{pancreas}$",
-            "zoom": 8
-        },
-
-        {
-            "id": "organ-intestine",
-            "href": "images/Intestines.svg",
-            "kind": "anatomical",
-            "feature": "wholebody-cvs-model/$u^{b}_{intestine}$",
-            "zoom": 5
-        },
-        {
-            "id": "organ-colon",
-            "href": "images/Colon.svg",
-            "kind": "anatomical",
-            "feature": "wholebody-cvs-model/$u^{b}_{colon}$",
-            "zoom": 5
-        },
-        {
-            "id": "intestines-colon-model",
-            "href": "organ-models/Intestines_colon_circulation.svg",
-            "kind": "functional",
-            "feature": "wholebody-cvs-model/intestines-colon",
-            "zoom": 7
         }
     ]
 }
