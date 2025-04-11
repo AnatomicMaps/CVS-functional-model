@@ -1,7 +1,11 @@
 {
     "features": {
         "cell/GLUT2": {
-            "hyperlink": "https://models.physiomeproject.org/e/cae"
+            "comment": "hyperlink is WIP deprecated...",
+            "hyperlink": "https://models.physiomeproject.org/e/cae",
+            "hyperlinks": {
+                "pmr": "https://models.physiomeproject.org/e/cae"
+            }
         }
     }
 }
