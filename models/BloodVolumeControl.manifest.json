@@ -1,0 +1,11 @@
+{
+    "id": "BloodVolumeControl",
+    "kind": "functional control",
+    "sources": [
+        {
+            "id": "blood-volume-control",
+            "href": "BloodVolumeControl.svg",
+            "kind": "base"
+        }
+    ]
+}
