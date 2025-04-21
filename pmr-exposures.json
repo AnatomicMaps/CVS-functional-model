@@ -1,0 +1,14 @@
+[
+    {
+        "exposure": "https://models.physiomeproject.org/e/d01",
+        "title": "MSM: Whole body scale",
+        "sha": "8906254cf74b1959bea38a03fa49c782f0f5822a",
+        "workspace": "https://models.physiomeproject.org/workspace/d00",
+        "documentation": "This workspace contains the current state of the whole-body systems physiology model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the whole-body scale component to the multiscale model exemplar.\nThe coreresponding map sources are part of the repository available on Github at https://github.com/AnatomicMaps/CVS-functional-model.",
+        "image": "https://models.physiomeproject.org/workspace/d00/file/8906254cf74b1959bea38a03fa49c782f0f5822a/whole-body.png",
+        "authors": "David Nickerson <d.nickerson@auckland.ac.nz>",
+        "description": "This workspace captures the current state of the whole-body systems physiology model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the whole-body scale component to the multiscale model exemplar.",
+        "created": "2025-04-21",
+        "flatmap": "XXXX YYYY ZZZZ"
+    }
+]
