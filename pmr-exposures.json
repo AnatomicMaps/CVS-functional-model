@@ -10,5 +10,17 @@
         "description": "This workspace captures the current state of the whole-body systems physiology model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the whole-body scale component to the multiscale model exemplar.",
         "created": "2025-04-21",
         "flatmap": "XXXX YYYY ZZZZ"
+    },
+    {
+        "exposure": "https://models.physiomeproject.org/e/d03",
+        "title": "MSM: Tissue scale",
+        "sha": "8d7ec80f7f067140bef56bb7b67454a44017404b",
+        "workspace": "https://models.physiomeproject.org/workspace/d02",
+        "documentation": "This workspace contains the current state of the multiscale whole-body systems physiology model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the tissue scale component to the multiscale model exemplar.\nThe coreresponding map sources are part of the repository available on Github at https://github.com/AnatomicMaps/CVS-functional-model.",
+        "image": "https://models.physiomeproject.org/workspace/d02/file/8d7ec80f7f067140bef56bb7b67454a44017404b/tissue.png",
+        "authors": "David Nickerson <d.nickerson@auckland.ac.nz>",
+        "description": "This workspace captures the current state of the tissue (FTU) model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the tissue scale component to the multiscale model exemplar.",
+        "created": "2025-04-21",
+        "flatmap": "XXXX YYYY ZZZZ"
     }
 ]
