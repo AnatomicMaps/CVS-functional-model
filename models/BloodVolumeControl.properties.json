@@ -1,0 +1,14 @@
+{
+  "features": {
+    "bvc/SHAPE_3": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    },
+    "bvc/SHAPE_6": {
+      "hyperlinks": {
+        "flatmap": "Capillary"
+      }
+    }
+  }
+}

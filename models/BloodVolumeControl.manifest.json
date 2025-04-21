@@ -1,7 +1,7 @@
 {
     "id": "BloodVolumeControl",
     "kind": "functional control",
-    "properties": "bvc.properties.json",
+    "properties": "BloodVolumeControl.properties.json",
     "sources": [
         {
             "id": "bvc",
