@@ -1,25 +1,34 @@
 [
     {
-        "sckan_term": "cvs:pressure.liver",
-        "label": "Pressure of the blood in the liver compartment.",
+        "sckan_term": "cvs:functional.whole-body",
+        "label": "MSM whole-body scale",
         "cellmls": [
             {
-                "cellml": "https://models.physiomeproject.org/workspace/c3d/file/020a6cd32177ca36e26ea5047c6b303ba0fc787b/models/cvs-model.cellml",
-                "workspace": "https://models.physiomeproject.org/workspace/c3d",
+                "workspace": "https://models.physiomeproject.org/workspace/d00",
                 "score": 0.8,
-                "exposure": "https://models.physiomeproject.org/e/c3e"
+                "exposure": "https://models.physiomeproject.org/e/d01"
             }
         ]
     },
     {
-        "sckan_term": "cvs:pressure.pa",
-        "label": "Pressure of the blood in the pulmonary artery.",
+        "sckan_term": "cvs:functional.tissue",
+        "label": "MSM tissue scale",
         "cellmls": [
             {
-                "cellml": "https://models.physiomeproject.org/workspace/c3d/file/020a6cd32177ca36e26ea5047c6b303ba0fc787b/models/cvs-model.cellml",
-                "workspace": "https://models.physiomeproject.org/workspace/c3d",
+                "workspace": "https://models.physiomeproject.org/workspace/d02",
                 "score": 0.8,
-                "exposure": "https://models.physiomeproject.org/e/c43"
+                "exposure": "https://models.physiomeproject.org/e/d03"
+            }
+        ]
+    },
+    {
+        "sckan_term": "cvs:functional.cell",
+        "label": "MSM cellular scale",
+        "cellmls": [
+            {
+                "workspace": "https://models.physiomeproject.org/workspace/d04",
+                "score": 0.8,
+                "exposure": "https://models.physiomeproject.org/e/d06"
             }
         ]
     }
