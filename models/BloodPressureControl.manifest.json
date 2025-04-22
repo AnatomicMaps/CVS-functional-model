@@ -5,7 +5,7 @@
     "sources": [
         {
             "id": "bp",
-            "href": "Blood_pressure.svg",
+            "href": "BloodPressureControl.svg",
             "kind": "base"
         }
     ]
