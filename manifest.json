@@ -1,6 +1,6 @@
 {
-    "id": "DetailedWholeBody",
-    "models": "BG:CardioVascular",
+    "id": "FC:whole-body",
+    "models": "FC:whole-body",
     "properties": "properties.json",
     "kind": "functional model",
     "sources": [

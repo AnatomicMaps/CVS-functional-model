@@ -1,5 +1,6 @@
 {
-    "id": "BloodPressure",
+    "id": "FC:blood-pressure-control",
+    "models": "FC:blood-pressure-control",
     "kind": "functional control",
     "sources": [
         {

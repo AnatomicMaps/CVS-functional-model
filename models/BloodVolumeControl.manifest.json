@@ -1,5 +1,6 @@
 {
-    "id": "BloodVolumeControl",
+    "id": "FC:blood-volume-control",
+    "models": "FC:blood-volume-control",
     "kind": "functional control",
     "properties": "BloodVolumeControl.properties.json",
     "sources": [

@@ -1,5 +1,6 @@
 {
-    "id": "Capillary",
+    "id": "FC:tissue",
+    "models": "FC:tissue",
     "kind": "functional model",
     "properties": "properties.json",
     "sources": [
