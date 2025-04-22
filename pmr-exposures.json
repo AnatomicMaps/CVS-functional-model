@@ -46,5 +46,17 @@
         "description": "This workspace captures the current state of the blood pressure control model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is an example control component to the multiscale model exemplar.",
         "created": "2025-04-21",
         "flatmap": "XXXX YYYY ZZZZ"
+    },
+    {
+        "exposure": "https://models.physiomeproject.org/e/d0c",
+        "title": "Blood volume control model",
+        "sha": "618d20c870b37d295f3d24099050b743ea3e1f27",
+        "workspace": "https://models.physiomeproject.org/workspace/c99",
+        "documentation": "A simple model of the control of blood volume by sodium. Shown below, the three compartments (GI tract, kidney, and circulation system) are shown with grey backgrounds. The blue-background rectangular boxes indicate the 6-layer FTUs (Functional Tissue Units) that encompass exchange of substances (in this case just water and sodium) between the epithelial compartments and blood. The 0:nodes and 1:nodes provide the link to protein mechanisms in subcellular compartments. The variables shown in red are specified boundary conditions.",
+        "image": "https://models.physiomeproject.org/workspace/c99/rawfile/618d20c870b37d295f3d24099050b743ea3e1f27/BloodVolumeControl.jpg",
+        "authors": "Shelley Fong <s.fong@auckland.ac.nz>",
+        "description": "A simple model of the control of blood volume by sodium.",
+        "created": "2025-04-21",
+        "flatmap": "XXXX YYYY ZZZZ"
     }
 ]
