@@ -1,0 +1,20 @@
+{
+    "features": {
+        "blood-volume-control/Circulation": {
+            "hyperlinks": {
+                "pmr": "https://models.physiomeproject.org/e/d01"
+            }
+        },
+        "blood-volume-control/Kidney": {
+            "hyperlinks": {
+                "pmr": "https://models.physiomeproject.org/e/d01"
+            }
+        },
+        "blood-volume-control/GI tract": {
+            "hyperlinks": {
+                "pmr": "https://models.physiomeproject.org/e/d01"
+            }
+        },
+        
+    }
+}
