@@ -1,10 +1,11 @@
 {
-    "id": "BloodPressure",
+    "id": "FC:blood-pressure-control",
+    "models": "FC:blood-pressure-control",
     "kind": "functional control",
     "sources": [
         {
             "id": "bp",
-            "href": "Blood_pressure.svg",
+            "href": "BloodPressureControl.svg",
             "kind": "base"
         }
     ]

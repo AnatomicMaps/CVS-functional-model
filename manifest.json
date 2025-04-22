@@ -1,6 +1,6 @@
 {
-    "id": "DetailedWholeBody",
-    "models": "BG:CardioVascular",
+    "id": "FC:whole-body",
+    "models": "FC:whole-body",
     "properties": "properties.json",
     "kind": "functional model",
     "sources": [
@@ -166,7 +166,7 @@
                 [ "wholebody-cvs-model/$u^{b}_{lRenalA}$", "left-kidney-model/$u^{b}_{RenalA}$"],
                 [ "wholebody-cvs-model/$u^{b}_{lRenalV}$", "left-kidney-model/$u^{b}_{RenalV}$"]
             ],
-            "detail-fit": "fit-width",
+            "detail-fit": "fit-height",
             "zoom": 5
         },
         {
@@ -180,7 +180,7 @@
                 [ "wholebody-cvs-model/$u^{b}_{rRenalA}$", "right-kidney-model/$u^{b}_{RenalA}$"],
                 [ "wholebody-cvs-model/$u^{b}_{rRenalV}$", "right-kidney-model/$u^{b}_{RenalV}$"]
             ],
-            "detail-fit": "fit-width",
+            "detail-fit": "fit-height",
             "zoom": 5
         }
     ]

@@ -9,7 +9,7 @@
         "authors": "David Nickerson <d.nickerson@auckland.ac.nz>",
         "description": "This workspace captures the current state of the whole-body systems physiology model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the whole-body scale component to the multiscale model exemplar.",
         "created": "2025-04-21",
-        "flatmap": "XXXX YYYY ZZZZ"
+        "flatmap": "FC:whole-body"
     },
     {
         "exposure": "https://models.physiomeproject.org/e/d03",
@@ -21,7 +21,7 @@
         "authors": "David Nickerson <d.nickerson@auckland.ac.nz>",
         "description": "This workspace captures the current state of the tissue (FTU) model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the tissue scale component to the multiscale model exemplar.",
         "created": "2025-04-21",
-        "flatmap": "XXXX YYYY ZZZZ"
+        "flatmap": "FC:tissue"
     },
     {
         "exposure": "https://models.physiomeproject.org/e/d06",
@@ -33,7 +33,7 @@
         "authors": "David Nickerson <d.nickerson@auckland.ac.nz>",
         "description": "This workspace captures the current state of the cellular model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the tissue scale component to the multiscale model exemplar.",
         "created": "2025-04-21",
-        "flatmap": "XXXX YYYY ZZZZ"
+        "flatmap": "FC:cellular"
     },
     {
         "exposure": "https://models.physiomeproject.org/e/d09",
@@ -45,7 +45,7 @@
         "authors": "David Nickerson <d.nickerson@auckland.ac.nz>",
         "description": "This workspace captures the current state of the blood pressure control model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is an example control component to the multiscale model exemplar.",
         "created": "2025-04-21",
-        "flatmap": "XXXX YYYY ZZZZ"
+        "flatmap": "FC:blood-pressure-control"
     },
     {
         "exposure": "https://models.physiomeproject.org/e/d0c",
@@ -57,6 +57,6 @@
         "authors": "Shelley Fong <s.fong@auckland.ac.nz>",
         "description": "A simple model of the control of blood volume by sodium.",
         "created": "2025-04-21",
-        "flatmap": "XXXX YYYY ZZZZ"
+        "flatmap": "FC:blood-volume-control"
     }
 ]
