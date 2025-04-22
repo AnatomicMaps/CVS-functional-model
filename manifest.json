@@ -2,7 +2,7 @@
     "id": "DetailedWholeBody",
     "models": "BG:CardioVascular",
     "properties": "properties.json",
-    "kind": "functional",
+    "kind": "functional model",
     "sources": [
         {
             "id": "wholebody-cvs-model",

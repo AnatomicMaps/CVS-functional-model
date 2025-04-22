@@ -1,6 +1,6 @@
 {
     "id": "Capillary",
-    "kind": "functional",
+    "kind": "functional model",
     "properties": "properties.json",
     "sources": [
         {
