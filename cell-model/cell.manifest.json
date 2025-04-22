@@ -1,6 +1,6 @@
 {
     "id": "Cell",
-    "kind": "functional",
+    "kind": "functional model",
     "properties": "properties.json",
     "sources": [
         {

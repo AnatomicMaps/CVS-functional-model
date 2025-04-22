@@ -1,10 +1,10 @@
 {
     "id": "BloodVolumeControl",
-    "properties": "properties.json",
     "kind": "functional control",
+    "properties": "BloodVolumeControl.properties.json",
     "sources": [
         {
-            "id": "blood-volume-control",
+            "id": "bvc",
             "href": "BloodVolumeControl.svg",
             "kind": "base"
         }
