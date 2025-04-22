@@ -2,6 +2,7 @@
     "features": {
         "capillary/SHAPE_3": {
             "label": "Endothelial cell",
+            "models": "cvs:functional.cell",
             "hyperlinks": {
                 "flatmap": "FC:cellular"
             }

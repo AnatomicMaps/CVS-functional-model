@@ -100,26 +100,36 @@
   "features": {
 
     "lung-model-lU/FTU": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
     },
     "lung-model-rU/FTU": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
     },
     "lung-model-rM/FTU": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
     },
     "lung-model-lL/FTU": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
     },
     "lung-model-rL/FTU": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
@@ -132,6 +142,8 @@
       "associated-details": "left-kidney-model"
     },
     "left-kidney-model/FTU:1": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
@@ -144,6 +156,8 @@
       "associated-details": "right-kidney-model"
     },
     "right-kidney-model/FTU:1": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }

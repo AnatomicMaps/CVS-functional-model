@@ -1,11 +1,15 @@
 {
   "features": {
     "bvc/SHAPE_3": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
     },
     "bvc/SHAPE_6": {
+      "label": "Functional tissue unit",
+      "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
