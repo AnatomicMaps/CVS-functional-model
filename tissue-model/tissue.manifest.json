@@ -2,7 +2,7 @@
     "id": "FC:tissue",
     "models": "FC:tissue",
     "kind": "functional model",
-    "properties": "properties.json",
+    "properties": "tissue.properties.json",
     "sources": [
         {
             "id": "capillary",

@@ -3,7 +3,7 @@
         "capillary/SHAPE_3": {
             "label": "Endothelial cell",
             "hyperlinks": {
-                "flatmap": "Cell"
+                "flatmap": "FC:cellular"
             }
         },
         "capillary/SHAPE_5": {

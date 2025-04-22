@@ -2,12 +2,12 @@
   "features": {
     "bvc/SHAPE_3": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
     "bvc/SHAPE_6": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     }
   }

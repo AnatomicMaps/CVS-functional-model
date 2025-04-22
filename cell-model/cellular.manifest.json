@@ -2,7 +2,7 @@
     "id": "FC:cellular",
     "models": "FC:cellular",
     "kind": "functional model",
-    "properties": "properties.json",
+    "properties": "cellular.properties.json",
     "sources": [
         {
             "id": "cell",

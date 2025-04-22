@@ -101,27 +101,27 @@
 
     "lung-model-lU/FTU": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
     "lung-model-rU/FTU": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
     "lung-model-rM/FTU": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
     "lung-model-lL/FTU": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
     "lung-model-rL/FTU": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
 
@@ -133,7 +133,7 @@
     },
     "left-kidney-model/FTU:1": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     },
 
@@ -145,7 +145,7 @@
     },
     "right-kidney-model/FTU:1": {
       "hyperlinks": {
-        "flatmap": "Capillary"
+        "flatmap": "FC:tissue"
       }
     }
   }
