@@ -1,14 +1,21 @@
 {
   "features": {
     "bvc/SHAPE_3": {
-      "label": "Functional tissue unit",
+      "label": "Tissue exchange system",
       "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
       }
     },
     "bvc/SHAPE_6": {
-      "label": "Functional tissue unit",
+      "label": "Tissue exchange system",
+      "models": "cvs:functional.tissue",
+      "hyperlinks": {
+        "flatmap": "FC:tissue"
+      }
+    },
+    "bvc/SHAPE_50": {
+      "label": "Tissue exchange system",
       "models": "cvs:functional.tissue",
       "hyperlinks": {
         "flatmap": "FC:tissue"
@@ -25,6 +32,14 @@
     "bvc/SHAPE_4": {
       "label": "GI tract",
       "models": "cvs:functional.whole-body"
+    },
+    "bvc/SHAPE_170": {
+      "label": "Cellular transport",
+      "models": "cvs:functional.cell"
+    },
+    "bvc/SHAPE_156": {
+      "label": "Cellular transport",
+      "models": "cvs:functional.cell"
     }
   }
 }
