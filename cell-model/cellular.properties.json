@@ -8,36 +8,43 @@
             }
         },
         "cell/SGLT1": {
+            "hyperlink": "https://models.physiomeproject.org/e/c8c",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/c8c"
             }
         },
         "cell/NKE": {
+            "hyperlink": "https://models.physiomeproject.org/e/cd6",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/cd6/"
             }
         },
         "cell/SHAPE_139": {
+            "hyperlink": "https://models.physiomeproject.org/e/cca",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/cca/"
             }
         },
         "cell/SHAPE_158": {
+            "hyperlink": "https://models.physiomeproject.org/e/cca",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/cca/"
             }
         },
         "cell/NCE": {
+            "hyperlink": "https://models.physiomeproject.org/e/ca1",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/ca1/"
             }
         },
         "cell/SHAPE_188": {
+            "hyperlink": "https://models.physiomeproject.org/e/cbf",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/cbf/"
             }
         },
         "cell/SHAPE_205": {
+            "hyperlink": "https://models.physiomeproject.org/e/cbd",
             "hyperlinks": {
                 "pmr": "https://models.physiomeproject.org/e/cbd/"
             }
