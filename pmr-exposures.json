@@ -48,15 +48,15 @@
         "flatmap": "FC:blood-pressure-control"
     },
     {
-        "exposure": "https://models.physiomeproject.org/e/d0c",
+        "exposure": "https://models.physiomeproject.org/e/d0d",
         "title": "Blood volume control model",
-        "sha": "618d20c870b37d295f3d24099050b743ea3e1f27",
+        "sha": "720b44d7e9b899c0819ac0cc574a7a3b682eed88",
         "workspace": "https://models.physiomeproject.org/workspace/c99",
         "documentation": "A simple model of the control of blood volume by sodium. Shown below, the three compartments (GI tract, kidney, and circulation system) are shown with grey backgrounds. The blue-background rectangular boxes indicate the 6-layer FTUs (Functional Tissue Units) that encompass exchange of substances (in this case just water and sodium) between the epithelial compartments and blood. The 0:nodes and 1:nodes provide the link to protein mechanisms in subcellular compartments. The variables shown in red are specified boundary conditions.",
-        "image": "https://models.physiomeproject.org/workspace/c99/rawfile/618d20c870b37d295f3d24099050b743ea3e1f27/BloodVolumeControl.jpg",
+        "image": "https://models.physiomeproject.org/workspace/c99/rawfile/720b44d7e9b899c0819ac0cc574a7a3b682eed88/BloodVolumeControl.jpg",
         "authors": "Shelley Fong <s.fong@auckland.ac.nz>",
         "description": "A simple model of the control of blood volume by sodium.",
-        "created": "2025-04-21",
+        "created": "2025-04-22",
         "flatmap": "FC:blood-volume-control"
     }
 ]

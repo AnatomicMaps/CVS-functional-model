@@ -4,8 +4,6 @@
         "label": "MSM whole-body scale",
         "cellmls": [
             {
-                "workspace": "https://models.physiomeproject.org/workspace/d00",
-                "score": 0.8,
                 "exposure": "https://models.physiomeproject.org/e/d01"
             }
         ]
@@ -15,8 +13,6 @@
         "label": "MSM tissue scale",
         "cellmls": [
             {
-                "workspace": "https://models.physiomeproject.org/workspace/d02",
-                "score": 0.8,
                 "exposure": "https://models.physiomeproject.org/e/d03"
             }
         ]
@@ -26,8 +22,6 @@
         "label": "MSM cellular scale",
         "cellmls": [
             {
-                "workspace": "https://models.physiomeproject.org/workspace/d04",
-                "score": 0.8,
                 "exposure": "https://models.physiomeproject.org/e/d06"
             }
         ]
