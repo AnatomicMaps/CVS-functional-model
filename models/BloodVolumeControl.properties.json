@@ -25,21 +25,21 @@
       "label": "Circulatory system",
       "models": "cvs:functional.whole-body",
       "hyperlinks": {
-        "flatmap": "FC:wole-body"
+        "flatmap": "FC:whole-body"
       }
     },
     "bvc/SHAPE_1": {
       "label": "Kidney",
       "models": "cvs:functional.whole-body",
       "hyperlinks": {
-        "flatmap": "FC:FC:wole-body"
+        "flatmap": "FC:whole-body"
       }
     },
     "bvc/SHAPE_4": {
       "label": "GI tract",
       "models": "cvs:functional.whole-body",
       "hyperlinks": {
-        "flatmap": "FC:FC:wole-body"
+        "flatmap": "FC:whole-body"
       }
     },
     "bvc/SHAPE_170": {
