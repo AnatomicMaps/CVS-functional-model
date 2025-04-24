@@ -31,7 +31,7 @@
         "documentation": "This workspace contains the current state of the multiscale whole-body systems physiology model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the cellular scale component to the multiscale model exemplar.\nThe coreresponding map sources are part of the repository available on Github at https://github.com/AnatomicMaps/CVS-functional-model.",
         "image": "https://models.physiomeproject.org/workspace/d04/rawfile/5dd0396c9575cb4183a4b5730108960e099dead7/VSMC.jpg",
         "authors": "Peter Hunter <p.hunter@auckland.ac.nz>",
-        "description": "This workspace captures the current state of the cellular model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the tissue scale component to the multiscale model exemplar.",
+        "description": "This workspace captures the current state of the cellular model used to demonstrate the capabilities of the SPARC Functional Connectivity map interface. It is the cellular scale component to the multiscale model exemplar.",
         "created": "2025-04-21",
         "flatmap": "FC:cellular"
     },
