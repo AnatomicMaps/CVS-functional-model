@@ -25,5 +25,17 @@
                 "exposure": "https://models.physiomeproject.org/e/d06"
             }
         ]
+    },
+    {
+        "sckan_term": "cvs:functional.control",
+        "label": "MSM control models",
+        "cellmls": [
+            {
+                "exposure": "https://models.physiomeproject.org/e/d09"
+            },
+            {
+                "exposure": "https://models.physiomeproject.org/e/d0d"
+            }
+        ]
     }
 ]
