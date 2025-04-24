@@ -56,6 +56,8 @@
         "image": "https://models.physiomeproject.org/workspace/c99/rawfile/720b44d7e9b899c0819ac0cc574a7a3b682eed88/BloodVolumeControl.jpg",
         "authors": "Shelley Fong <s.fong@auckland.ac.nz>",
         "description": "A simple model of the control of blood volume by sodium.",
+        "simulation": "https://models.physiomeproject.org/e/d0d/BloodVolumeControl.cellml/download_omex",
+        "omex": "https://models.physiomeproject.org/e/d0d/BloodVolumeControl.cellml/download_omex",
         "created": "2025-04-22",
         "flatmap": "FC:blood-volume-control"
     }
