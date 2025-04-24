@@ -23,23 +23,38 @@
     },
     "bvc/SHAPE_7": {
       "label": "Circulatory system",
-      "models": "cvs:functional.whole-body"
+      "models": "cvs:functional.whole-body",
+      "hyperlinks": {
+        "flatmap": "FC:whole-body"
+      }
     },
     "bvc/SHAPE_1": {
       "label": "Kidney",
-      "models": "cvs:functional.whole-body"
+      "models": "cvs:functional.whole-body",
+      "hyperlinks": {
+        "flatmap": "FC:whole-body"
+      }
     },
     "bvc/SHAPE_4": {
       "label": "GI tract",
-      "models": "cvs:functional.whole-body"
+      "models": "cvs:functional.whole-body",
+      "hyperlinks": {
+        "flatmap": "FC:whole-body"
+      }
     },
     "bvc/SHAPE_170": {
       "label": "Cellular transport",
-      "models": "cvs:functional.cell"
+      "models": "cvs:functional.cell",
+      "hyperlinks": {
+        "flatmap": "FC:cellular"
+      }
     },
     "bvc/SHAPE_156": {
       "label": "Cellular transport",
-      "models": "cvs:functional.cell"
+      "models": "cvs:functional.cell",
+      "hyperlinks": {
+        "flatmap": "FC:cellular"
+      }
     }
   }
 }
